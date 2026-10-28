@@ -8,14 +8,10 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Carlos Samuel
+  - given-names: 'Carlos Samuel'
     family-names: Preciado Amezquita
-    email: lc19211840@tijuana.tecnm.mx
-    name-particle: CARLOS
+    email: LC19211840@tijuana.tecnm.mx
     affiliation: TecNM/ IT Tijuana
-identifiers:
-  - type: url
-    value: 'https://github.com/CarlosPreciadoA/MSFBP2'
 repository-code: 'https://github.com/CarlosPreciadoA/MSFBP2'
 keywords:
   - Circuito RLC
@@ -24,5 +20,5 @@ keywords:
   - Modelo matemático
   - Simulaciones numérica
 license: BSD-2-Clause
-version: '1,0'
+version: '1.0'
 date-released: '2026-10-22'
