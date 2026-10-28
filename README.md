@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
+[[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)](https://matlab.mathworks.com/open/github/v1?repo=CarlosPreciadoA/MSFBP2)
 
 # Práctica 2 — Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
@@ -385,30 +385,6 @@ flowchart TD
 
 ---
 
-<a id="estructura"></a>
-## Estructura del repositorio
-
-```text
-.
-├── README.md                      # Reporte principal de la Práctica 2
-├── CITATION.cff                   # Datos de citación del repositorio
-├── Apellido_NoControl_P2.mlx      # Cuaderno MATLAB de automatización
-├── Apellido_NoControl_P2.pdf      # Exportación del cuaderno MATLAB
-├── windkessel_model.slx           # Modelo Simulink (Estados, FT, Simscape, PID)
-├── windkessel_python.py           # Código de reproducción en Python
-├── diagrama_biologico.png        # Diagrama cardiovascular (BioRender)
-├── sintonizacion_pid_hipo.png     # Evidencia Tune caso hipotenso
-├── sintonizacion_pid_hiper.png    # Evidencia Tune caso hipertenso
-├── lazo_abierto.pdf              # Comparativa de lazo abierto
-├── lazo_cerrado_hipo.pdf          # Respuesta controlada caso hipotenso
-├── lazo_cerrado_hiper.pdf         # Respuesta controlada caso hipertenso
-└── evidencias/                    # Capturas adicionales y datos auxiliares
-```
-
-[Volver al contenido](#contenido)
-
----
-
 <a id="requisitos"></a>
 ## Requisitos
 
@@ -427,8 +403,8 @@ flowchart TD
 ## Reproducibilidad y entregables
 
 1. Clonar el repositorio.
-2. Abrir `Apellido_NoControl_P2.mlx` en MATLAB y ejecutar todas las secciones para compilar el modelo de Simulink `windkessel_model.slx` y generar los reportes PDF.
-3. Ejecutar `windkessel_python.py` en VS Code para verificar la coincidencia de curvas entre plataformas.
+2. Abrir `PreciadoC19211840.mlx` en MATLAB y ejecutar todas las secciones para compilar el modelo de Simulink `Practica.slx` y generar los reportes PDF.
+3. Ejecutar `PreciadoC19211840.py` en VS Code para verificar la coincidencia de curvas entre plataformas.
 4. Consultar las figuras generadas en la raíz del proyecto.
 
 [Volver al contenido](#contenido)
