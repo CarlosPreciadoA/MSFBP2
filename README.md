@@ -15,6 +15,7 @@ El caso de estudio representa la **dinámica cardiovascular del lecho arterial**
 **Estudiante:** Preciado Amezquita Carlos Samuel · C19211840 · LC19211840@tijuana.tecnm.mx
 
 **Repositorio de la asignatura:** [https://github.com/DrPaulValle/MSF-IBF1020  ](https://github.com/CarlosPreciadoA/MSFBP2)
+]
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
 ---
